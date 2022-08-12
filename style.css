@@ -1,0 +1,13 @@
+h1 {
+    color: #00FF00;
+  }
+  
+  h2 {
+    color: #e910ec;
+  }
+  h3 {color: #996633}
+  img {
+    display: block;
+    margin-left: 100px;
+  /*   margin-right: auto; */
+  }
